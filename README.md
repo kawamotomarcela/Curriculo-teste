@@ -1,6 +1,6 @@
 # Curriculo-teste
 
-Atividade curriculo
+Atividade curriculo =)
 
 ##
 <div style="display: flex; align-items: center;">
