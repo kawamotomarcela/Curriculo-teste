@@ -12,7 +12,7 @@ Atividade curriculo
 ## DADOS PESSOAIS
 Data de Nascimento: _05/06/2005_
 
-Estado: Cansanda, sem dinheiro
+Estado: Cansanda, sem dinheiro =(
 
 ---
 ## CONTATO
@@ -22,6 +22,15 @@ Email: _Emailexemplo@gmail.com_
 
 ---
 
+### FORMAÇÃO ESCOLAR
+Ensino Médio Completo
+Local: Etec Antônio Devisate - Extensão EE Monsenhor Bicudo
+
+Curso Técnico em Serviços Jurídicos
+Local: (Etec Antônio Devisate) – 2022;
+
+
+---
 
 ### FORMAÇÃO
 
