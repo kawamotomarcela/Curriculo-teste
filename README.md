@@ -21,7 +21,11 @@ Telefone: **(14)3432-8922**
 Email: _Emailexemplo@gmail.com_
 
 ---
+### FORMAÇÃO ESCOLAR 
 
+em processo!
+
+---
 
 ### FORMAÇÃO
 
